@@ -28,7 +28,8 @@ HOW TO PLAY:
 1) Cursor Keys: To move human player number 
 2) Q:Transfer one item from right backpack to left backpack
 3) W:Transfer one item from left backpack to right backpack
-4) P: Pauses the game\n5) H:Displays the help screen
+4) P: Pauses the game
+5) 5) H:Displays the help screen
 
 BONUSES:
 
