@@ -1,0 +1,15 @@
+F1:Selectionstart
+F2:Selectionend
+F3:Cut
+F4:Copy
+F5:Paste
+F6:Find
+F7:Replace
+F8:Next
+F9:Alignleft
+F10:Justify
+F11:Load
+F12:Save
+
+Mode:
+Alignment:
